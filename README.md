@@ -39,7 +39,7 @@
 ## Explanation:
 Test script receive its data from the property file "Configuration.properties". tear-down method is used after every script failure, Screen shots are recorder for every method under "rr-sdet-assignment\target\screenshots". Once the test execution finish, Admin should navigate to "rr-sdet-assignment\target\htmlCustomExtentReport.html" to review test results in custom extent report.
 
-###Scenarios Covered
+### Scenarios Covered
 - Login to application with credentials
 - Edit the map
 - Add nodes
@@ -49,7 +49,7 @@ Test script receive its data from the property file "Configuration.properties". 
 - Add region
 - Edit region: Move or Change coordinates
 - Log out
-- Search movies by title for ‘Harry Potter’ and list the IDs of all results.
+- Search movies by title for â€˜Harry Potterâ€™ and list the IDs of all results.
 
 ### To Run: 
 ```
